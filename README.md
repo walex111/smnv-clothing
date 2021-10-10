@@ -1,1 +1,1 @@
-An E-Commerse website using React, Redux, firebase and stripe integration for payment.
+An E-Commerse website using React, Redux, SCSS, firebase and stripe integration for payment.
